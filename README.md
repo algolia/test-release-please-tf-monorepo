@@ -1,2 +1,4 @@
 # test-release-please-tf-monorepo
-a test repo to test release-please behaviour with a monorepo of terraform modules.
+
+A test repo to test release-please behaviour with a monorepo of terraform modules.
+The goal is to demonstrate release-please capabilities in handling a monorepo with several things to release.
