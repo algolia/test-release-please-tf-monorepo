@@ -6,7 +6,7 @@
       "changelog-path": "CHANGELOG.md",
       "include-component-in-tag": true,
       "extra-files": [
-        "terraform/dummy-module-1/.spacelift/config.yml"
+        ".spacelift/config.yml"
       ]
     },
     "terraform/dummy-module-2": {
@@ -15,7 +15,7 @@
       "changelog-path": "CHANGELOG.md",
       "include-component-in-tag": true,
       "extra-files": [
-        "terraform/dummy-module-2/.spacelift/config.yml"
+        ".spacelift/config.yml"
       ]
     }
   }
