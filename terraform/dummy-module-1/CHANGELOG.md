@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.1](https://github.com/algolia/test-release-please-tf-monorepo/compare/dummy-module-1-v0.8.0...dummy-module-1-v0.8.1) (2026-01-12)
+
+
+### Bug Fixes
+
+* fake commit on 2 modules ([c53f1db](https://github.com/algolia/test-release-please-tf-monorepo/commit/c53f1dbb59f66cc5a31215718be9e55e2d89e04f))
+
 ## [0.8.0](https://github.com/algolia/test-release-please-tf-monorepo/compare/dummy-module-1-v0.7.0...dummy-module-1-v0.8.0) (2026-01-09)
 
 
