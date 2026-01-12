@@ -1,4 +1,4 @@
-# Dummy Module 2 
+# Dummy Module 2
 
 This is a dummy Terraform module that creates a null resource.
 
