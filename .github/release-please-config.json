@@ -5,6 +5,7 @@
       "package-name": "dummy-module-1",
       "changelog-path": "CHANGELOG.md",
       "include-component-in-tag": true,
+      "separate-pull-requests": true,
       "extra-files": [
         ".spacelift/config.yml"
       ]
@@ -14,6 +15,7 @@
       "package-name": "dummy-module-2",
       "changelog-path": "CHANGELOG.md",
       "include-component-in-tag": true,
+      "separate-pull-requests": true,
       "extra-files": [
         ".spacelift/config.yml"
       ]
