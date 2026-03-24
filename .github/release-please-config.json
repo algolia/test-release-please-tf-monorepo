@@ -19,6 +19,16 @@
       "extra-files": [
         ".spacelift/config.yml"
       ]
+    },
+    "terraform/existing-module-1": {
+      "release-type": "terraform-module",
+      "package-name": "existing-module-1",
+      "changelog-path": "CHANGELOG.md",
+      "include-component-in-tag": true,
+      "separate-pull-requests": true,
+      "extra-files": [
+        ".spacelift/config.yml"
+      ]
     }
   }
 }
